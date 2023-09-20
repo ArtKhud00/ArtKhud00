@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![CMake](https://img.shields.io/badge/CMake-%2300599C.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=blue)
+![Kubernetes](https://img.shields.io/badge/kubernetes-white.svg?style=for-the-badge&logo=kubernetes&logoColor=blue)
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
