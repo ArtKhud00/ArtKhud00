@@ -1,5 +1,4 @@
-### Привет! 👋 Меня зовут Артем
-
+### Привет! 👋 Меня зовут Артем, я разработчик C++
 <!--
 **ArtKhud00/ArtKhud00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
